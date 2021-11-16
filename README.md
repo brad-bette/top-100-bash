@@ -1,6 +1,6 @@
 # top-100-bash
 A bash shell script that gets the current US Billboard top 100 via web scraping. Then creates the file labled `US-100.txt`
-
+![alt text](https://raw.githubusercontent.com/brad-bette/top-100-bash/main/Top-100.png)
 ## Programs needed to get this program working
 Make sure that the following linux commands are installed on your system:
 - wget
